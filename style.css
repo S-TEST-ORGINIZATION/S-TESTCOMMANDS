@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #1A1A1A;
+}
+
+body {
+  color: white;
+}
+
+.p1 {
+  font-family: "Lucida Console";
+}
+
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #d6d6d6;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ababab;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
