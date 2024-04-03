@@ -8,6 +8,4 @@ S/TEST is an image service (no hosting for your images, silly) where its main wa
 The command is simply just an edit command for you computer nerds (like me), you send a message and you use s/[message you just sent]/[what you want it to change to.]
 
 # Donate to me!
-This is a solo project and i am using replit.com to even use it!
-A donation would be great!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G13P24M)
+There is no more donation links as I have closed all of them. If you tried to donate, it went to a closed account.
